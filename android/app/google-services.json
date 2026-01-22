@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "559747301322",
+    "project_id": "student-teacher-portal-41611",
+    "storage_bucket": "student-teacher-portal-41611.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:559747301322:android:9f587d6ede13d8bf261933",
+        "android_client_info": {
+          "package_name": "com.example.student_teacher_portal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANkcFLFRKkvyYFTvE7BnWtrVZM_zwplbc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
