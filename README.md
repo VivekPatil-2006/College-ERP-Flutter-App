@@ -85,100 +85,6 @@
 
 ---
 
-## 📂 Project Structure
-
-```
-lib/
- ├── models/
- ├── screens/
- │    ├── student/
- │    ├── teacher/
- │    ├── admin/
- │    └── auth/
- ├── services/
- ├── main.dart
-```
-
----
-
-## ⚙️ Installation Steps
-
-### 1️⃣ Clone Repository
-
-```
-git clone https://github.com/your-username/student-teacher-portal.git
-```
-
----
-
-### 2️⃣ Install Dependencies
-
-```
-flutter pub get
-```
-
----
-
-### 3️⃣ Firebase Setup
-
-1. Create Firebase Project
-2. Enable:
-
-   * Firebase Authentication (Email/Password)
-   * Cloud Firestore
-3. Download:
-
-   * google-services.json (Android)
-4. Place file in:
-
-```
-android/app/
-```
-
----
-
-### 4️⃣ Cloudinary Setup (File Upload)
-
-Create account on:
-
-[https://cloudinary.com](https://cloudinary.com)
-
-Add your keys inside:
-
-```
-cloudinary_service.dart
-```
-
----
-
-### 5️⃣ EmailJS Setup (Teacher Email Notification)
-
-Create free account:
-
-[https://www.emailjs.com](https://www.emailjs.com)
-
-Get:
-
-* SERVICE_ID
-* TEMPLATE_ID
-* PUBLIC_KEY
-
-Add keys inside:
-
-```
-email_service.dart
-```
-
----
-
-### 6️⃣ Run Project
-
-```
-flutter run
-```
-
----
-
 ## 🔐 Authentication Flow
 
 * Firebase Auth handles login & registration
@@ -190,15 +96,6 @@ flutter run
 
 ---
 
-## 📬 Email Notification Flow
-
-When student submits assignment:
-
-```
-Student Submit ➜ Firestore Save ➜ Fetch Teacher Email ➜ EmailJS API ➜ Teacher Receives Email
-```
-
----
 
 ## 📊 Assignment Targeting System
 
