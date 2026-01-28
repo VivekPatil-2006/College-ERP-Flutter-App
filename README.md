@@ -2,7 +2,7 @@
 
 <table>
   <tr>
-    <td><img src="[images/img1.png](https://github.com/VivekPatil-2006/College-ERP-Flutter-App/blob/main/student_1.jpeg)" width="250"/></td>
+    <td><img src="https://github.com/VivekPatil-2006/College-ERP-Flutter-App/blob/main/student_1.jpeg" width="250"/></td>
     <td><img src="images/img2.png" width="250"/></td>
     <td><img src="images/img3.png" width="250"/></td>
   </tr>
