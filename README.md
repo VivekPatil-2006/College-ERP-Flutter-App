@@ -1,6 +1,18 @@
 # 🎓 Student-Teacher Portal (Flutter + Firebase)
 
-A **full-featured Student–Teacher–Admin Portal** built using **Flutter & Firebase** that enables assignment management, submissions with file uploads, notifications, analytics, role-based dashboards, and email alerts — all in one platform.
+<table>
+  <tr>
+    <td><img src="[images/img1.png](https://github.com/VivekPatil-2006/College-ERP-Flutter-App/blob/main/student_1.jpeg)" width="250"/></td>
+    <td><img src="images/img2.png" width="250"/></td>
+    <td><img src="images/img3.png" width="250"/></td>
+  </tr>
+  <tr>
+    <td><img src="images/img4.png" width="250"/></td>
+    <td><img src="images/img5.png" width="250"/></td>
+    <td><img src="images/img6.png" width="250"/></td>
+  </tr>
+</table>
+
 
 ---
 
