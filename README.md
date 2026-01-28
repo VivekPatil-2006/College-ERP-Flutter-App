@@ -3,13 +3,13 @@
 <table>
   <tr>
     <td><img src="https://github.com/VivekPatil-2006/College-ERP-Flutter-App/blob/main/student_1.jpeg" width="250"/></td>
-    <td><img src="images/img2.png" width="250"/></td>
-    <td><img src="images/img3.png" width="250"/></td>
+    <td><img src="https://github.com/VivekPatil-2006/College-ERP-Flutter-App/blob/main/student_2.jpeg" width="250"/></td>
+    <td><img src="https://github.com/VivekPatil-2006/College-ERP-Flutter-App/blob/main/student_3.jpeg" width="250"/></td>
   </tr>
   <tr>
-    <td><img src="images/img4.png" width="250"/></td>
-    <td><img src="images/img5.png" width="250"/></td>
-    <td><img src="images/img6.png" width="250"/></td>
+    <td><img src="https://github.com/VivekPatil-2006/College-ERP-Flutter-App/blob/main/teacher_1.jpeg" width="250"/></td>
+    <td><img src="https://github.com/VivekPatil-2006/College-ERP-Flutter-App/blob/main/teacher_2.jpeg" width="250"/></td>
+    <td><img src="https://github.com/VivekPatil-2006/College-ERP-Flutter-App/blob/main/teacher_3.jpeg" width="250"/></td>
   </tr>
 </table>
 
