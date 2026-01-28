@@ -215,21 +215,6 @@ Only matching students can view the assignment.
 
 ---
 
-## 🏗 Database Structure (Firestore)
-
-```
-users/
- ├── students/data/{uid}
- ├── teachers/data/{uid}
-
-assignments/{assignmentId}
-
-submissions/{assignmentId_studentId}
-
-notifications/{notificationId}
-```
-
----
 
 ## 🎯 Highlights
 
@@ -243,9 +228,6 @@ notifications/{notificationId}
 
 ---
 
-## 📸 Screenshots
-
-(Add your app screenshots here)
 
 ---
 
@@ -259,24 +241,3 @@ notifications/{notificationId}
 
 ---
 
-## ⭐ Support
-
-If you like this project:
-
-* Star the repository ⭐
-* Fork it 🍴
-* Share with others 🚀
-
----
-
-## 📄 License
-
-This project is open-source and available for educational purposes.
-
----
-
-### ✅ Project Status: Production Ready
-
----
-
-Happy Coding 💙 Flutter + Firebase 🚀
